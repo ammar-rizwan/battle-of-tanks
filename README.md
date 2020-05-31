@@ -1,5 +1,5 @@
 # battle Of Tanks
- An open-world  tank fight  game with AI-Based Enemy, 360degree Control, terrain on unity3D. Made for GameProgrammingn Class Assignment 
+ An open-world  tank fight  game with AI-Based Enemy, 360degree Control, terrain on unity3D. Made for Game Programming Class Assignment 
 
 ![](https://github.com/MuhammadMujtaba19/battle-of-tanks/blob/master/ScreenShots/ss1.jpg)
 
